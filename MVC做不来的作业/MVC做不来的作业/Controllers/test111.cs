@@ -12,5 +12,10 @@ namespace MVC做不来的作业.Controllers
         {
             return View();
         }
+
+        public ActionResult Test111() 
+        {
+            return View();
+        }
     }
 }
