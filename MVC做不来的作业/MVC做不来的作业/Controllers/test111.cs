@@ -15,6 +15,7 @@ namespace MVC做不来的作业.Controllers
 
         public ActionResult Test111() 
         {
+            int id = 11;
             return View();
         }
     }
