@@ -18,7 +18,6 @@ namespace MVC做不来的作业.Controllers
 
             string ang = "这是我分支1的修改";
             string ang2= "这是我分支2的修改";
-            string ang3 = "这是我分支3的修改";
 
             int id = 11;
 
