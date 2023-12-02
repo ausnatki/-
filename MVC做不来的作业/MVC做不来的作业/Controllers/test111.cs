@@ -15,6 +15,7 @@ namespace MVC做不来的作业.Controllers
 
         public ActionResult Test111() 
         {
+<<<<<<< HEAD
 
 
             string ang = "这是我分支1的修改";
@@ -25,6 +26,8 @@ namespace MVC做不来的作业.Controllers
 
             string ang = "这是我分支2的修改";
             int iii = 1;
+=======
+>>>>>>> parent of cb0fb48 (12)
             return View();
         }
     }
