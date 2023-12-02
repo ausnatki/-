@@ -2,5 +2,8 @@
 {
     public class t1
     {
+
+        string name = "四u啊欧俄秋娥hyk";
+        string dsaiu = "dsaoisueqohyk";
     }
 }
