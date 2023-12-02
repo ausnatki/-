@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "F:\\资料\\git\\-\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
       "projectName": "MVC做不来的作业",
       "projectPath": "F:\\资料\\git\\-\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
       "packagesPath": "C:\\Users\\Zz\\.nuget\\packages\\",
       "outputPath": "F:\\资料\\git\\-\\MVC做不来的作业\\MVC做不来的作业\\obj\\",
+=======
+      "projectUniqueName": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
+      "projectName": "MVC做不来的作业",
+      "projectPath": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
+      "packagesPath": "C:\\Users\\ausnatki\\.nuget\\packages\\",
+      "outputPath": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\obj\\",
+>>>>>>> parent of 2b163dc (111)
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VSG\\NuGetPackages"

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vIBOtDYhuBSaNkqoEnTb3hTquhQtWmocdS6ZUYQQo2GX1kfu/zD0plXEOzSCmltX6S9aCtqNKeo7oC112Iaa7g==",
   "success": true,
   "projectFilePath": "F:\\资料\\git\\-\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\Zz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Zz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "ZR00spuFfbjV8INT0edxyG4i3erxQAT+fs/3Qkq1szrYrzmIXSHSqacTrTVvV+Eb0xybO1eMLQqIGenWfp0qsQ==",
+  "success": true,
+  "projectFilePath": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> parent of 2b163dc (111)
   "logs": []
 }
