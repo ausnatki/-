@@ -15,7 +15,12 @@ namespace MVC做不来的作业.Controllers
 
         public ActionResult Test111() 
         {
+
+            string ang = "这是我分支1的修改";
+            string ang2= "这是我分支2的修改";
+
             int id = 11;
+
             return View();
         }
     }
