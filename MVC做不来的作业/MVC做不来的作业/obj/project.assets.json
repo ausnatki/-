@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
+      "projectUniqueName": "D:\\github\\-\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
       "projectName": "MVC做不来的作业",
-      "projectPath": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
+      "projectPath": "D:\\github\\-\\MVC做不来的作业\\MVC做不来的作业\\MVC做不来的作业.csproj",
       "packagesPath": "C:\\Users\\ausnatki\\.nuget\\packages\\",
-      "outputPath": "D:\\visual\\web\\MVC做不来的作业\\MVC做不来的作业\\obj\\",
+      "outputPath": "D:\\github\\-\\MVC做不来的作业\\MVC做不来的作业\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
